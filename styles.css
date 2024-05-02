@@ -1,0 +1,105 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+.headings{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 10px;
+    position: fixed;
+}
+.image-container{
+    width: 100%;
+    position: relative;
+}
+.Barch{
+    position: absolute;
+     top: 380px;
+     left: 650px;
+     color: aliceblue;
+}
+.Barch b{
+    border: 1px solid rgb(40, 39, 39);
+    padding: 20px;
+    background-color: rgb(59, 59, 59);
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: bolder;
+    opacity: 0.6;
+}
+.td-1{
+    position: relative;
+}
+.summer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    border:1px solid black;
+    width: 103px;
+    padding: 6px;
+    background-color: black;
+    color: aliceblue;
+}
+.main-table{
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+button{
+    width: 325px;
+     padding: 10px 0px;
+     font-size: 18px;
+     border: none;
+}
+input{
+    width: 95%;
+    padding: 12px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+#message{
+    width: 200px;
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 30px;
+}
+.footer-p{
+    text-align: center; 
+    background-color: black; padding: 30px 0px;
+     color: aliceblue;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* iframe{ */
+    /* margin-left: 20px; */
+/* } */
+/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121768.49590006487!2d78.4039936!3d17.494835199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9186c9216501%3A0x5b92f2e1fd8fc012!2sJawaharlal%20Nehru%20Technological%20University%20Hyderabad!5e0!3m2!1sen!2sin!4v1714653091399!5m2!1sen!2sin" width="96%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */
